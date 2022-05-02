@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cbc59d20-c8af-4724-af5b-a502425d1b83",
+    "name": "Dizengoff",
+    "numberOfVotes": 4
+  },
+  {
+    "id": "d1aca905-6403-4d40-9959-7c31d7c451eb",
+    "name": "Чихо",
+    "numberOfVotes": 4
+  },
+  {
+    "id": "85a77790-927d-4924-ba3f-8e1184c1577b",
+    "name": "J’PAN",
+    "numberOfVotes": 3
+  },
+  {
+    "id": "0823f811-d4ec-4739-b675-282f3031b7d6",
+    "name": "Bank",
+    "numberOfVotes": 3
+  },
+  {
+    "id": "57cb1f76-71ff-4157-a492-f15313d53db3",
+    "name": "20/1",
+    "numberOfVotes": 3
+  },
+  {
+    "id": "2cdf8b89-daec-4f28-a09e-320bb84e545b",
+    "name": "Torro Gnill",
+    "numberOfVotes": 2
+  },
+  {
+    "id": "907dde2f-4715-4f72-89c2-e4e6a88cce32",
+    "name": "Старик и море",
+    "numberOfVotes": 2
+  },
+  {
+    "id": "22f456c6-9e44-46a5-b679-90cd49430074",
+    "name": "Хачапури и вино",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "49433362-05ea-4523-825e-bbb31e388634",
+    "name": "Турки",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "ae44a863-f0a7-490e-a8c3-f26de05d02a2",
+    "name": "Lambic",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "49a1fd91-2bd2-4824-80b9-17fcc9ecd332",
+    "name": "Imagine",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "45df724b-4625-4a69-8b5e-432777269d86",
+    "name": "Греки",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "cdfffaef-e947-4478-9445-6ae0ecb69ef5",
+    "name": "О море море",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "203b1225-70fe-45d5-af84-693385b49332",
+    "name": "Старая Грузия",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "69447664-0bf2-4599-baa6-7b971a379659",
+    "name": "T.G.I. Friday's",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "49a0c8b8-1e1f-4aed-80e9-b5dff6741488",
+    "name": "Пицца 22см",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "4ea452e0-d803-4947-9b57-a75fa866897a",
+    "name": "Burger Heros",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "9ba3f250-3e4a-4cc0-ac15-4a073e82c2c4",
+    "name": "Лепим, варим",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "880e29e7-a7ef-4321-ab1a-9ef6a6640dd4",
+    "name": "Охотка",
+    "numberOfVotes": 1
+  },
+  {
+    "id": "071920d5-d7f1-4e12-b377-e041d306afd3",
+    "name": "Underdog",
+    "numberOfVotes": 1
+  }
+]
